@@ -185,3 +185,7 @@ languageCode = "zh-cn"
 languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
+
+[Languages.ur]
+languageName = "اردو"
+languageCode = "ur"
